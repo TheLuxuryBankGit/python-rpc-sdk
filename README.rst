@@ -1,4 +1,4 @@
-TLCjsonrpc
+TLChain JsonRPC
 ==========
 
 Python client for TLC using the JSON-RPC interface
